@@ -1,0 +1,20 @@
+# Core data and visualization
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.6.3
+seaborn==0.12.2
+
+# Natural Language Processing
+nltk==3.8.1
+textblob==0.17.1
+
+# PyTorch & Transformers (check your GPU vs. CPU requirements on PyTorch)
+torch==2.0.0
+transformers==4.28.1
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# If you plan to run in notebooks:
+jupyter==1.0.0
+
